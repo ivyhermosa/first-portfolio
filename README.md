@@ -18,6 +18,7 @@ https://github.com/ivyhermosa/first-portfolio
 
 
 
+
 # screenshot: 
 
 <img width="1190" alt="Screen Shot 2022-07-17 at 12 30 06 PM" src="https://user-images.githubusercontent.com/103174285/179421841-92ea74f9-6e21-40fb-83a4-dac1186bb1e2.png">
