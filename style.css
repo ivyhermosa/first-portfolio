@@ -9,3 +9,12 @@
     
    
 }
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+    padding: 15px;
+    color: rgb(77, 27, 27);
+}
