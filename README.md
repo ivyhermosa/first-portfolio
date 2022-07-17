@@ -14,7 +14,7 @@
   
 # deployed URl: 
 
-   https://ivyhermosa.github.io/first-portfolio/
+
 
 # screenshot: 
 
