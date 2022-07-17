@@ -106,3 +106,31 @@
     font-weight: lighter;
 
 }
+
+li {
+   list-style-type: none;
+}
+
+@media  and (max-width: 800px) {
+    #about-me-container {
+        display: block;
+    
+}
+    .my-work {
+        display: block;
+    }
+  }
+
+@media screen and (max-width: 400px) {
+    .header-container{ 
+        display: block;
+    }
+
+    .name-container {
+        text-align: center;
+    }
+
+    .nav-bar {
+        justify-content: center;
+    }
+}
