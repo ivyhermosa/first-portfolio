@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    background-image: url("https://img.freepik.com/premium-vector/abstract-background-pastel-colors_627230-58.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: black;
+   
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+    padding: 15px;
+    color: rgb(77, 27, 27);
+}
+
+.name-container {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: brown;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    color: rgb(86, 5, 5);
+}
+
+.nav-item {
+    list-style-type: none;
+    margin: 10px;
+}
+
+.nav-item>a {
+    color: rgb(0, 0, 0);
+   text-decoration: none;
+   font-weight: 600;
+   font-family: monospace;
+   font-size: larger;
+   
+}
+
+#about-me-container {
+    font-family: monospace;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    justify-content: center;
+    margin: 100px;
+    position: static;
+}
+
+.aboutme {
+    font-family: monospace;
+    color: rgb(86, 5, 5);
+    text-align: center;
+}
+
+.profile-img {
+    width:  100%;
+   max-width: auto;
+    border-style: inset;
+    max-height: 600px;
+    border-radius: 50%;
+    
+}
+
+.title {
+    text-align: center;
+    font-family: monospace;
+
+}
+
+.my-work {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 50px;
+    font-family: monospace;
+}
+
+.project {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.project-img {
+    width: 100%;
+    max-width: 600px;
+   
+}
+
+#contact-me-container {
+    text-align: center;
+    padding: 15px;
+    background-color: transparent;
+    line-height: 2;
+    font-family: monospace;
+    font-size: large;
+    font-weight: lighter;
+
+}
+
+li {
+   list-style-type: none;
+}
+
+@media  and (max-width: 800px) {
+    #about-me-container {
+        display: block;
+    
+}
+    .my-work {
+        display: block;
+    }
+  }
+
+@media screen and (max-width: 400px) {
+    .header-container{ 
+        display: block;
+    }
+
+    .name-container {
+        text-align: center;
+    }
+
+    .nav-bar {
+        justify-content: center;
+    }
+}
