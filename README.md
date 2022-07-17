@@ -9,15 +9,12 @@
   
   
 # github repo:
-https://github.com/ivyhermosa/first-portfolio
-
   
+  https://github.com/ivyhermosa/first-portfolio
   
 # deployed URl: 
 
-
-
-
+   https://ivyhermosa.github.io/first-portfolio/
 
 # screenshot: 
 
