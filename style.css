@@ -44,3 +44,20 @@
    font-size: larger;
    
 }
+
+#about-me-container {
+    font-family: monospace;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    justify-content: center;
+    margin: 100px;
+    position: static;
+}
+
+.aboutme {
+    font-family: monospace;
+    color: rgb(86, 5, 5);
+    text-align: center;
+}
+
