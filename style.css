@@ -23,3 +23,10 @@
     font-family: 'Courier New', Courier, monospace;
     background-color: brown;
 }
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    color: rgb(86, 5, 5);
+}
