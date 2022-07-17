@@ -18,3 +18,8 @@
     padding: 15px;
     color: rgb(77, 27, 27);
 }
+
+.name-container {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: brown;
+}
