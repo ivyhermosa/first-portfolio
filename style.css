@@ -73,6 +73,7 @@
 .title {
     text-align: center;
     font-family: monospace;
+    justify-content: center;
 
 }
 
@@ -91,11 +92,21 @@
     font-weight: lighter;
 }
 
+
+
 .project-img {
     width: 100%;
     max-width: 600px;
    
 }
+
+.project-link {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: medium;
+    font-weight: lighter;
+}
+
 
 #contact-me-container {
     text-align: center;
